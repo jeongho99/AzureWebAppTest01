@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/292364b3-56c2-4209-b305-cae381cd33a4/resourceGroups/jhhWebApp/providers/Microsoft.Web/sites/jhhAzureTest01"
+}

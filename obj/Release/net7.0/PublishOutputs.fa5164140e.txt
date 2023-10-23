@@ -1,0 +1,7 @@
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\azureWebAppTest01.exe
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\appsettings.Development.json
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\appsettings.json
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\azureWebAppTest01.dll
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\azureWebAppTest01.deps.json
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\azureWebAppTest01.runtimeconfig.json
+C:\CouldJH\azureWebAppTest01\bin\Release\net7.0\publish\azureWebAppTest01.pdb

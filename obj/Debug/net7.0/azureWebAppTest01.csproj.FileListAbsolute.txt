@@ -1,0 +1,2 @@
+C:\CouldJH\azureWebAppTest01\bin\Debug\net7.0\azureWebAppTest01.exe
+C:\CouldJH\azureWebAppTest01\bin\Debug\net7.0\azureWebAppTest01.dll

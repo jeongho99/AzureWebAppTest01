@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azureWebAppTest01.props" />
+</Project>
